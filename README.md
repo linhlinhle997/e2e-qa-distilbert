@@ -40,7 +40,7 @@ The system consists of two primary modules:
 
 4. **Run the Notebook**:
 
-Open the notebook file `qa_system.ipynb`
+Open the notebook file `qa_finetune_distilbert.ipynb`
 The notebook will handle the following tasks automatically:
 - Install Required Libraries (`transformers`, `datasets`, `evaluate`, `faiss-gpu`).
 - Download the SQuAD2.0 dataset using Hugging Face.
